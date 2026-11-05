@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Maryem 👋
 
-<!--
-**maryemqorrych10-ui/maryemqorrych10-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering student / Engineer based in Rabat, Morocco.
+I build data pipelines and AI-powered tools.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+- **Finance Data Pipeline** – ETL with dbt and Airflow
+- **TaaSim** – Big Data capstone project
+- **Job Intelligent Dashboard** – job market analytics dashboard
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/your-profile) · your.email@example.com
